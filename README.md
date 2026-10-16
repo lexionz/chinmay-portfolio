@@ -1,15 +1,15 @@
-# Chinmay Jathar — Developer Portfolio
+# Chinmay Jathar — Portfolio
 
-A cinematic, responsive personal portfolio built with plain HTML, CSS, and JavaScript.
+A cinematic, scroll-led portfolio inspired by creative developer portfolios and personal project showcases. Built as an original page for Chinmay's projects and learning journey.
 
-## Publish with GitHub Pages
+## Design direction
+- Oversized editorial typography and acid-lime accents
+- Scroll-reveal transitions, a looping ticker, and interactive project rows
+- Clear status labels so concepts and unfinished work are not misrepresented
+- Responsive layout and reduced-motion support
 
-This repository is configured to publish from the `main` branch at the repository root. GitHub Pages may take a few minutes to make the site live.
+## Projects
+JARVIS, Lunaris, Startup Builder AI, AI Sentinel, and TECHNOVA. Project descriptions are intentionally conservative; update them as the projects become more concrete.
 
-## Projects shown
-
-The project cards intentionally use conservative descriptions and status labels for JARVIS, Lunaris, Startup Builder AI, AI Sentinel, and TECHNOVA. Update the descriptions and status labels as each project evolves.
-
-## Edit
-
-Change `index.html`, then commit and push to `main`.
+## Deploy
+GitHub Pages serves the site from the root of the `main` branch.
