@@ -1,15 +1,8 @@
-# Chinmay Jathar — Portfolio
+# Chinmay's Combined Portfolio
 
-A cinematic, scroll-led portfolio inspired by creative developer portfolios and personal project showcases. Built as an original page for Chinmay's projects and learning journey.
+This repository combines two portfolio implementations with permission from their respective owners:
 
-## Design direction
-- Oversized editorial typography and acid-lime accents
-- Scroll-reveal transitions, a looping ticker, and interactive project rows
-- Clear status labels so concepts and unfinished work are not misrepresented
-- Responsive layout and reduced-motion support
+- Main cinematic portfolio: copied from [gireeshkumarreddy/cinematic-portofilo](https://github.com/gireeshkumarreddy/cinematic-portofilo). The cinematic experience runs from the root `index.html` and uses the accompanying `src/`, `public/`, `tools/`, and media assets.
+- Developer portfolio: copied from [Sushmitadasari/portfolio](https://github.com/Sushmitadasari/portfolio) into [`/sushmita/`](./sushmita/). Open it at `/sushmita/` on the deployed GitHub Pages site.
 
-## Projects
-JARVIS, Lunaris, Startup Builder AI, AI Sentinel, and TECHNOVA. Project descriptions are intentionally conservative; update them as the projects become more concrete.
-
-## Deploy
-GitHub Pages serves the site from the root of the `main` branch.
+The two source projects are kept in one repository, with the cinematic project at the root and the second portfolio in its own folder to avoid conflicting `index.html`, CSS, JavaScript, and assets. Original names, source files, and media are retained in their respective copied implementations.
