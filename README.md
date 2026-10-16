@@ -1,8 +1,12 @@
-# Chinmay's Combined Portfolio
+# Chinmay Jathar — Cinematic Portfolio
 
-This repository combines two portfolio implementations with permission from their respective owners:
+A personalized version of the cinematic portfolio layout, with the original visual structure retained and the identity updated to Chinmay Jathar.
 
-- Main cinematic portfolio: The cinematic experience runs from the root `index.html` and uses the accompanying `src/`, `public/`, `tools/`, and media assets.
+## View it
 
+- Live site: https://lexionz.github.io/chinmay-portfolio/
+- Keep the entire repository structure together. The page depends on `src/styles/`, `src/`, and `public/` assets; opening only a standalone HTML file from Downloads will not load those dependencies.
 
-The two source projects are kept in one repository, with the cinematic project at the root and the second portfolio in its own folder to avoid conflicting `index.html`, CSS, JavaScript, and assets. Original names, source files, and media are retained in their respective copied implementations.
+## Run locally
+
+Download the repository as a ZIP and extract it, then open `index.html` from the extracted folder. If browser module restrictions prevent the animation from running, use a local static server (for example, VS Code Live Server). Do not move `index.html` away from its asset folders.
